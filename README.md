@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Candido133
-- 👀 I’m interested in Alura
-- 🌱 I’m currently learning Programação
+- 👀 I’m interested in Graficp
+- - 🌱 I’m currently learning Programação
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me 00001101208041sp@al.educacao.sp.gov.br
 - 😄 Pronouns: ele/dele
